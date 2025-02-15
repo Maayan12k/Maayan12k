@@ -30,7 +30,6 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
 
 ## Connect with Me
 - **LinkedIn:** [Maayan Israel](https://www.linkedin.com/in/maayan-israel-72694b206/)
-- **GitHub:** [Maayan12k](https://github.com/Maayan12k)
 
 <!--
 **Maayan12k/Maayan12k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
