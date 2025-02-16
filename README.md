@@ -9,19 +9,19 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
   - Automated a ticketing system to improve resolution time and reduce customer confusion.  
   - Worked with cloud technologies, collaborated in a team environment, and presented work to senior leadership.
 
-## Projects
+## Work Showcase
 - **[Task Management System](https://github.com/orgs/MaayanIsraelFullStackTaskManagement/repositories)**  
   - Full-stack task management app with **Spring Boot, Typescript, React** and **AWS** for cloud deployment.
 - **[CUDA AES Encryption](https://github.com/Maayan12k/VideoEncryptorCUDA)**  
   - Parallelized AES encryption for large files using **CUDA** to enhance performance.
 - **[WhatMusicDoILike? Music Transfer](https://github.com/orgs/WhatMusicDoILike-MusicWebApp/repositories)**  
   - Music recommendation and transfer platform using **Flask, React, Typescript,  and AWS**.
-- **cubeSTEP - NASA JPL/Cal Poly Pomona CubeSat Collaboration**  
-  - Contributed to CubeSat software development for an upcoming NASA launch.
 - **[Core Data Mining Algorithms](https://github.com/Maayan12k/BasicAlgorithms)**  
   - Implemented key data mining algorithms with explanations and dataset examples.
 - **[Member Tracking System](https://github.com/IscariotSystems/Member-System)**  
   - Web application for managing organizational membership and records.
+- **[My University Computer Science Work](https://github.com/Maayan12k/UniversityCSWork)**  
+  - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Machine Learning, and Data Mining. 
 
 ## Skills
 - **Programming:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash
