@@ -21,7 +21,7 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
 - **[Member Tracking System](https://github.com/IscariotSystems/Member-System)**  
   - Web application for managing organizational membership and records.
 - **[My University Computer Science Work](https://github.com/Maayan12k/UniversityCSWork)**  
-  - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Machine Learning, and Data Mining. 
+  - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Database Systems, Machine Learning, and Data Mining. 
 
 ## Skills
 - **Programming:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash
