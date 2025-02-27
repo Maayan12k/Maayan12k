@@ -5,7 +5,7 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
 
 ## Experience
 - **Amazon - Software Development Engineer Intern (Summer 2024)**  
-  - Developed customer-facing graph visualizations using React and TypeScript.  
+  - Developed customer-facing graph visualizations(Neo4j Visualization Library) using React and TypeScript.  
   - Automated a ticketing system to improve resolution time and reduce customer confusion.  
   - Worked with cloud technologies, collaborated in a team environment, and presented work to senior leadership.
 
