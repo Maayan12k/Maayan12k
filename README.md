@@ -26,7 +26,7 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
 ## Skills
 - **Programming:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash
 - **Frameworks/Libraries:** React, Spring Boot, Node.js, CUDA, AWS CDK
-- **Technologies & Tools:** AWS, Git, Neo4j, Vite, JIRA, UML, tRPC, Jupyter Notebooks
+- **Technologies & Tools:** AWS(EC2, Route 53, RDS), Git, Neo4j, Vite, JIRA, UML, tRPC, Jupyter Notebooks
 
 ## Connect with Me
 - **LinkedIn:** [Maayan Israel](https://www.linkedin.com/in/maayan-israel-72694b206/)
