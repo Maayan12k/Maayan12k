@@ -28,7 +28,7 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
   - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Database Systems, Machine Learning, and Data Mining. 
 
 ## Skills
-- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL, GraphQL, Bash, HTML, CSS  
+- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Cypher Query Language, Bash, HTML, CSS  
 - **Frameworks & Libraries:** React, Next.js, Spring Boot, Node.js, CUDA, tRPC  
 - **Cloud & DevOps:** AWS (EC2, Route 53, RDS, Amplify), GitHub Actions, Nginx, Gunicorn  
 - **Databases:** Neo4j, PostgreSQL, MySQL  
