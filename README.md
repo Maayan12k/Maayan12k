@@ -16,6 +16,8 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
   - Parallelized AES encryption for large files using **CUDA** to enhance performance.
 - **[WhatMusicDoILike? Music Transfer](https://github.com/orgs/WhatMusicDoILike-MusicWebApp/repositories)**  
   - Music recommendation and transfer platform using **Flask, React, Typescript,  and AWS**.
+- **[NAND To Tetris](https://github.com/Maayan12k/UniversityCSWork/tree/main/NANDtoTetris_CS3650)**  
+  - Built a complete computer system from first principles, starting with basic logic gates and progressing to a functional CPU, assembler, virtual machine, and a simple operating system capable of running programs, including a Tetris game.
 - **[Core Data Mining Algorithms](https://github.com/Maayan12k/BasicAlgorithms)**  
   - Implemented key data mining algorithms with explanations and dataset examples.
 - **[Member Tracking System](https://github.com/IscariotSystems/Member-System)**  
@@ -24,9 +26,11 @@ I am a Computer Science student at **California Polytechnic University, Pomona**
   - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Database Systems, Machine Learning, and Data Mining. 
 
 ## Skills
-- **Programming:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash
-- **Frameworks/Libraries:** React, Spring Boot, Node.js, CUDA, AWS CDK
-- **Technologies & Tools:** AWS(EC2, Route 53, RDS), Git, Neo4j, Vite, JIRA, UML, tRPC, Jupyter Notebooks
+- **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash, HTML, CSS  
+- **Frameworks & Libraries:** React, Next.js, Spring Boot, Node.js, Express.js, CUDA, tRPC  
+- **Cloud & DevOps:** AWS (EC2, Route 53, RDS, Amplify), GitHub Actions, Nginx, Gunicorn  
+- **Databases:** Neo4j, PostgreSQL, MySQL  
+- **Technologies & Tools:** Vite, UML, Clerk Auth, Git  
 
 ## Connect with Me
 - **LinkedIn:** [Maayan Israel](https://www.linkedin.com/in/maayan-israel-72694b206/)
