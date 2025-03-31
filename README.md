@@ -1,7 +1,7 @@
 # Maayan Israel
 
 ## About Me
-I am a Computer Science student at **California Polytechnic University, Pomona**. I have a passion for **full-stack development** and **high-performance computing**, and I have worked on various projects that showcase my technical skills and problem-solving abilities. Feel free to check out my organizations tab, which showcase a few projects I have collaborated on!
+I am a Computer Science student at **California Polytechnic University, Pomona**. I have a passion for **full-stack development** and **high-performance computing**, and I have worked on an assortment of projects that showcase my technical skills and problem-solving abilities. Feel free to check out my organizations tab, which showcase a few projects I have collaborated on!
 
 ## Experience
 - **Amazon - Software Development Engineer (May 2025)** 
