@@ -5,7 +5,7 @@ I am a Software Engineer and Computer Science graduate from California Polytechn
 
 ## Experience
 - **Amazon - Software Engineer (May 2025 - Present)**  
-  - Amazon SDO - Security Organization
+  - SDO - Security Organization
 - **Amazon - Software Engineer Intern (Summer 2024)**  
   - Developed customer-facing graph visualizations using React and TypeScript.  
   - Automated a ticketing system to improve resolution time and reduce customer confusion.  
