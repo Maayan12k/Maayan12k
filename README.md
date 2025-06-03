@@ -1,10 +1,12 @@
 # Maayan Israel
 
 ## About Me
-I am a Computer Science student at California Polytechnic University, Pomona. I have a passion for full-stack development and high-performance computing, and I have worked on an assortment of projects that exhibit my technical skills and problem-solving abilities. I actively participate in hackathons, where I enjoy building creative solutions under pressure and collaborating with diverse teams. I’ve also taken on freelance web development work, helping small clients with static websites. Feel free to check out my organizations tab, which showcases a few projects I have collaborated on!
+I am a Software Engineer and Computer Science graduate from California Polytechnic University, Pomona. I have a passion for full-stack development and high-performance computing, and I have worked on an assortment of projects that exhibit my technical skills and problem-solving abilities. I actively participate in hackathons, where I enjoy building creative solutions under pressure and collaborating with diverse teams. I’ve also taken on freelance web development work, helping small clients with static websites. Feel free to check out my organizations tab, which showcases a few projects I have collaborated on!
 
 ## Experience
-- **Amazon - Software Development Engineer Intern (Summer 2024)**  
+- **Amazon - Software Engineer (May 2025 - Present)**  
+  - Amazon SDO - Security Organization
+- **Amazon - Software Engineer Intern (Summer 2024)**  
   - Developed customer-facing graph visualizations using React and TypeScript.  
   - Automated a ticketing system to improve resolution time and reduce customer confusion.  
   - Worked with cloud technologies, collaborated in a team environment, and presented work to senior leadership.
@@ -22,6 +24,8 @@ I am a Computer Science student at California Polytechnic University, Pomona. I 
   - Implemented key data mining algorithms with explanations and dataset examples.
 - **[Member Tracking System](https://github.com/IscariotSystems/Member-System)**  
   - Web application for managing organizational membership and records.
+- **[Fruit-Classification-Machine-Learning-Project](https://github.com/Maayan12k/CNN-Fruit-Classifier)**  
+  - Fruit Classification CNN project. Trained and analyzed a model on NVIDIA A100 to Classify Fruits from an online dataset to delve into practical machine learning applications of Convolutional Neural Networks.
 - **[My University Computer Science Work](https://github.com/Maayan12k/UniversityCSWork)**  
   - This repository showcases all the code I have written across various subjects while in university such as Computer Architecture, Assembly Language, Data Structures & Algorithms, Numerical Methods, GPU CUDA Programming, Database Systems, Machine Learning, and Data Mining. 
 
