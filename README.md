@@ -38,4 +38,3 @@ I am a Software Engineer and Computer Science graduate from California Polytechn
 
 ## Connect with Me
 - **LinkedIn:** [Maayan Israel](https://www.linkedin.com/in/maayan-israel-72694b206/)
-- **Email:** maayan.israel144@gmail.com
