@@ -36,5 +36,3 @@ I am a Software Engineer and Computer Science graduate from California Polytechn
 - **Databases:** Neo4j, PostgreSQL, MySQL  
 - **Technologies & Tools:** Vite, UML, Clerk Auth, Git
 
-## Connect with Me
-- **LinkedIn:** [Maayan Israel](https://www.linkedin.com/in/maayan-israel-72694b206/)
