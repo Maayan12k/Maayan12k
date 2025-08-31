@@ -3,14 +3,6 @@
 ## About Me
 I am a Software Engineer and Computer Science graduate from California Polytechnic University, Pomona. I have a passion for full-stack development and high-performance computing, and I have worked on an assortment of projects that exhibit my technical skills and problem-solving abilities. I actively participate in hackathons, where I enjoy building creative solutions under pressure and collaborating with diverse teams. I’ve also taken on freelance web development work, helping small clients with static websites. Feel free to check out my organizations tab, which showcases a few projects I have collaborated on!
 
-## Experience
-- **Amazon - Software Engineer (May 2025 - Present)**  
-  - SDO - Security Organization
-- **Amazon - Software Engineer Intern (Summer 2024)**  
-  - Developed customer-facing graph visualizations using React and TypeScript.  
-  - Automated a ticketing system to improve resolution time and reduce customer confusion.  
-  - Worked with cloud technologies, collaborated in a team environment, and presented work to senior leadership.
-
 ## Work Showcase
 - **[Task Management System](https://github.com/orgs/MaayanIsraelFullStackTaskManagement/repositories)**  
   - Full-stack task management app with **Spring Boot, Typescript, React** and **AWS** for cloud deployment.
